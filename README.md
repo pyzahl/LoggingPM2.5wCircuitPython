@@ -8,6 +8,8 @@ Adafruit ESP32-S2 TFT Feather - 4MB Flash, 2MB PSRAM, STEMMA QT (https://www.ada
 
 Adafruit PMSA003I Air Quality Breakout - STEMMA QT / Qwiic (https://www.adafruit.com/product/4632)
 
+STEMMA QT / Qwiic JST SH 4-pin Cable - 100mm Long (https://www.adafruit.com/product/4210)
+
 USB Battery Pack (Anker) and USB-C cable
 
 
