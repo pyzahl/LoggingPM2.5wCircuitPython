@@ -24,4 +24,4 @@ Note about the "plotaqd.py" script, this is for external use only (on your PC) p
 
 
 INSTALL:
-Copy all files from the CIRCUITPY folder to you CircuitPy root. I included all libs used for convenience. That's it.
+Copy all files from the CIRCUITPY folder to your CircuitPy root. I included all libs used for convenience. That's it.
