@@ -18,3 +18,6 @@ Install jumper before power up, this will setup the Flash RW for Circuit Python.
 
 IMPORTANT NOTE: To be safe, please remove the jumper before powering OFF and wait a second!
 Else you may just cut power while writing to flash and chances are to corrupt the file system! 
+
+
+Note about the "plotaqd.py" script, this is for external use only (on your PC) plotting for the log file data. I just keep it on the CP drive handy.
