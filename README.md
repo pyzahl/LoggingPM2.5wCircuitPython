@@ -21,3 +21,7 @@ Else you may just cut power while writing to flash and chances are to corrupt th
 
 
 Note about the "plotaqd.py" script, this is for external use only (on your PC) plotting for the log file data. I just keep it on the CP drive handy.
+
+
+INSTALL:
+Copy all files from the CIRCUITPY folder to you CircuitPy root. I included all libs used for convenience. That's it.
